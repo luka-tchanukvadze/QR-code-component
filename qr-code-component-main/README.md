@@ -1,0 +1,1 @@
+it is about QR component. nothing special
